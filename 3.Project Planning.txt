@@ -1,0 +1,13 @@
+After Gaurob Saha who is the sales director of  Atliq Hardware realizes his pain and decides to embark on a data analyst project journey.He would call the different people from the organization such as IT team, data analysis team, sales team and he would brainstrom in a meeting in the meeting room using Aim's grid. 
+
+Aim's grid has four component the first component is the purpose, what is the purpose of the project, why are we doing this and what do we want to achieve using this project? The purpose is to unlock sales insights that are not visible before for sales team for decision support and automate them to reduced manual time spent in data gathering.
+
+The second component is the satkeholders. So who all are involved in the project. The sales team, IT team, and data analysis team, sales director.
+
+The third component is the end result. What do you want to achieve after as a result of this project? An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
+
+The fourth component is the success criteria.
+1. Dashboard(s) uncovering sales order insights with latest data available.
+2. Sales team able to take better decision and prove 10% cost savings of tptal cost.
+3. Sales analysts stop data gathering manually in order to save 20% of their business time and reinvest it
+value added activity.

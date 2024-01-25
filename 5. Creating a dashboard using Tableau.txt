@@ -1,0 +1,19 @@
+1.At first I connected the sales database to Tableau.
+
+2.Then I created a data model, data model is basically a model which connects different data tables and establishes
+a relationship among those data tables.
+
+3.I followed the star schema, where the transaction table came as a fact table and other tables came as the dimension tables.
+
+4. DATA cleaning part:
+   
+In the transaction table I found some -1 and 0 values (transactions of -1 and 0 INR), I decided to filter those   out. I filtered out some invalid market locations. I found two USD transactions and rest of the others were INR transactions. So I created a new column named "normalized amount" also converted all the values into INR currency and adeed all the INR currency values into the "normalized amount" column.
+
+5. Creating a dashboard:
+
+I tried to the following business questions: "Why business was declining?", "Which markets were having low business?","Which products were the most selling ones?","The overall business trendline?", "Who were the top buyers?", "The revenue trendline by years". In those in my mind, I created required sheets and then aggregated aal of these into a dashboard.
+ 
+I created 9 sheets. Revenue, sales Quantity, Revenue By markets, Sales Quantity By markets, Top customers, Top products, Revenue by year, Year, Month. Then I showed all the the sheets using a dashboard.
+
+After creating the dashboard I tried get some insights using filters. For examples: I checked the data only for the year 2020 and I checked data only for Delhi area etc. I have added all the pptx files and .twb file for convenience.
+
