@@ -1,0 +1,1 @@
+In response to a decline in sales, an analysis underwent leveraging data. It revealed underlying issues through the implementation of a Tableau dashboard, resulting in time savings and informed decision-making to address business challenges effectively.
